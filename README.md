@@ -25,13 +25,12 @@ const adarsh = {
   name: "Adarsh Tiwari",
   alias: "adarsh26tiwari",
   college: "MNNIT Allahabad 🎓",
-  year: "3rd Year CSE",
-  currentlyLearning: ["System Design", "Vector DBs", "AI/ML APIs"],
+  year: "3rd Year CSE"
   
   techStack: {
     frontend:  ["React.js", "HTML5", "CSS3", "JavaScript"],
     backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "Mongoose", "Qdrant", "ChromaDB"],
+    database:  ["MongoDB", "Mongoose", "Qdrant"],
     ai:        ["Google Gemini", "Groq", "Cohere", "OpenAI"],
     cloud:     ["Cloudinary", "JWT Auth", "REST APIs"],
     tools:     ["Git", "Postman", "VS Code", "Nodemon"],
