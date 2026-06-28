@@ -46,25 +46,6 @@ const adarsh = {
 
 ---
 
-## 🚀 Featured Project — IntelliMeet
-
-<div align="center">
-
-> 🤖 An AI-powered live collaboration platform built with the MERN Stack
-
-</div>
-
-| Feature | Stack Used |
-|---------|-----------|
-| 🎥 Live Video Sessions | WebRTC / Socket.io |
-| 🧠 AI Meeting Summaries | Google Gemini + Groq |
-| 📄 Document Processing | Mammoth + PDF-Parse |
-| 🔍 Semantic Search | Qdrant + Cohere Embeddings |
-| 🔐 Auth & Security | JWT + bcrypt + Helmet |
-| ☁️ File Uploads | Cloudinary + Multer |
-| 🛡️ Rate Limiting | express-rate-limit |
-
----
 
 ## 🛠️ Tech Stack & Tools
 
