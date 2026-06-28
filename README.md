@@ -26,8 +26,6 @@ const adarsh = {
   alias: "adarsh26tiwari",
   college: "MNNIT Allahabad 🎓",
   year: "3rd Year CSE",
-  
-  currentlyBuilding: "IntelliMeet — AI-powered live meeting platform",
   currentlyLearning: ["System Design", "Vector DBs", "AI/ML APIs"],
   
   techStack: {
